@@ -1,0 +1,36 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+	<title>Dashboard</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #018944 } 
+		.s1 { fill: #ef0044 } 
+		.s2 { fill: #0226a5 } 
+		.s3 { fill: #ffffff } 
+		.s4 { fill: #78c90a } 
+		.s5 { fill: #dfba00 } 
+		.s6 { fill: #e16800 } 
+	</style>
+	<g id="Dashboard">
+		<path id="Layer 32 copy 10" class="s0" d="m120 240c-66.4 0-120-53.6-120-120 0-66.4 53.6-120 120-120 66.4 0 120 53.6 120 120 0 66.4-53.6 120-120 120z"/>
+		<g id="Folder 19">
+			<g id="Folder 20">
+				<path id="Shape 33" fill-rule="evenodd" class="s1" d="m30 95c0-22.7 18.3-41 41-41v41l-36.4 19c-2.9-5.7-4.6-12.2-4.6-19z"/>
+				<path id="Shape 33 copy" fill-rule="evenodd" class="s2" d="m74 138c-15.8 0-29.5-8.9-36.3-21.9l36.3-19.1v-41c22.7 0 41 18.3 41 41 0 22.7-18.3 41-41 41z"/>
+			</g>
+			<g id="Folder 17">
+				<path id="Shape 37" class="s3" d="m42 155c0-2.2 1.8-4 4-4h62c2.2 0 4 1.8 4 4 0 2.2-1.8 4-4 4h-62c-2.2 0-4-1.8-4-4z"/>
+				<path id="Shape 37 copy" class="s3" d="m42 168c0-2.2 1.8-4 4-4h62c2.2 0 4 1.8 4 4 0 2.2-1.8 4-4 4h-62c-2.2 0-4-1.8-4-4z"/>
+				<path id="Shape 37 copy 2" class="s3" d="m42 181c0-2.2 1.8-4 4-4h62c2.2 0 4 1.8 4 4 0 2.2-1.8 4-4 4h-62c-2.2 0-4-1.8-4-4z"/>
+			</g>
+		</g>
+		<g id="Folder 18">
+			<path id="Shape 34" class="s3" d="m139 77h1v86h-1z"/>
+			<path id="Shape 35" class="s3" d="m139 162h83v1h-83z"/>
+			<path id="Shape 36" class="s4" d="m187 113h15v50h-15z"/>
+			<path id="Shape 36 copy 2" class="s5" d="m167 99h15v64h-15z"/>
+			<path id="Shape 36 copy" class="s6" d="m147 131h15v32h-15z"/>
+		</g>
+		<g id="Folder 7">
+		</g>
+	</g>
+</svg>
